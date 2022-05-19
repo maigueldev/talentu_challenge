@@ -11,9 +11,10 @@ npm install
 ### Compiles and hot-reloads for development
 ```
 npm run serve
-
-Go to: http://localhost:8080/
 ```
+
+### Go to: http://localhost:8080/
+
 
 ### See the next screens (Mobile & Desktop)
 
