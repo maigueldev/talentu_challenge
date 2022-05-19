@@ -15,5 +15,5 @@ npm run serve
 npm run build
 ```
 
-# Link for Demo on live
+# Demo app live On Vercel :sunglasses: :+1:
 https://talentu-challenge.vercel.app/
